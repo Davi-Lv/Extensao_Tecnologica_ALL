@@ -31,7 +31,7 @@ const Flex = () => {
       </View>
       <View style={{ flex: 3 }}>
         <Button title="Login"
-          buttonStyle={[styles.Button]}
+          buttonStyle={[styles.Button, {backgroundColor: '#435159'}]}
         />
 
         <Button title="Cadastre-se"
