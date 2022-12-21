@@ -12,9 +12,15 @@
 - **Node**
   - Express
   - Web services
+  - Api rest
 - **React.JS**
   - Criação do Front-end
   - integração com webservice
+  - bootstrap
+  - biblioteca React navigate
 - **React Native**
   - Criação do Front-end
   - integração com webservice
+  - Requisições HTTP
+  - Hooks e UseEffect
+  - biblioteca React navigate
